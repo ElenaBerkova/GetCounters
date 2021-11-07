@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCountersLib", "GetCountersLib\GetCountersLib.csproj", "{ABFB4804-2705-400C-84CC-B003D4C31318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{126DFBA8-23F6-4C69-915B-0A2833A42DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFB4804-2705-400C-84CC-B003D4C31318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFB4804-2705-400C-84CC-B003D4C31318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFB4804-2705-400C-84CC-B003D4C31318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFB4804-2705-400C-84CC-B003D4C31318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126DFBA8-23F6-4C69-915B-0A2833A42DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126DFBA8-23F6-4C69-915B-0A2833A42DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126DFBA8-23F6-4C69-915B-0A2833A42DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126DFBA8-23F6-4C69-915B-0A2833A42DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA7F511-94FF-4CD5-8B96-00EB1FBFC82B}
+	EndGlobalSection
+EndGlobal
